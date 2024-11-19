@@ -15,3 +15,4 @@
 
 ## 11-19-24
 - Worked on cleaning kworb file
+- Loaded kaggle data and turned into dataframe
