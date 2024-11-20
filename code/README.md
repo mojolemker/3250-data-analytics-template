@@ -3,7 +3,9 @@
 Contains all notebook files
 
 ## Run in the following order
-1. 001-kworbDataScrape  (Time to run: 2 Mins)
+Skip 000
+1. 001-kworbDataCleaning
+2. 002-kaggleDataCleaning
 
 ## Scripts
 Contains any additional scripts or work in progress files
