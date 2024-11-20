@@ -11,7 +11,7 @@ Data - contains all data files
 Code - Contains all project code
 * notebooks - contains jupyter notebooks
 * scripts - contains all other scripts
-Docs - Any additional documentation or files for the project'
+* Docs - Any additional documentation or files for the project'
 
 ## Workflow
 * Collect all data through scraping and csv loading
