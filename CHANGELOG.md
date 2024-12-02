@@ -16,3 +16,7 @@
 ## 11-19-24
 - Worked on cleaning kworb file
 - Loaded kaggle data and turned into dataframe
+
+## 12-02-24
+- finished cleaning kaggle dataset
+- saved both files to csvs in finished data
