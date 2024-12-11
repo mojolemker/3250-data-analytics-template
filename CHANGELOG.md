@@ -20,3 +20,7 @@
 ## 12-02-24
 - finished cleaning kaggle dataset
 - saved both files to csvs in finished data
+
+## 12-10-24
+- Fixed merged df
+- started exploratory analysis
