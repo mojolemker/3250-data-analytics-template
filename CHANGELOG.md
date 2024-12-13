@@ -24,3 +24,6 @@
 ## 12-10-24
 - Fixed merged df
 - started exploratory analysis
+
+## 12-12-24
+- Made progress on artist analysis
