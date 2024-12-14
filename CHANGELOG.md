@@ -27,3 +27,8 @@
 
 ## 12-12-24
 - Made progress on artist analysis
+
+## 12-14-24
+- Created genre and track analysis
+- worked on genre analysis
+- Added instrumentalness to kaggle and merged data sets
