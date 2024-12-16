@@ -32,3 +32,6 @@
 - Created genre and track analysis
 - worked on genre analysis
 - Added instrumentalness to kaggle and merged data sets
+
+## 12-14-24
+- Finished up genre analysis
