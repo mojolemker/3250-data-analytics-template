@@ -35,3 +35,4 @@
 
 ## 12-14-24
 - Finished up genre analysis
+- began work on track analysis
