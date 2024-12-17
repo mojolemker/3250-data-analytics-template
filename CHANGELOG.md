@@ -33,6 +33,9 @@
 - worked on genre analysis
 - Added instrumentalness to kaggle and merged data sets
 
-## 12-14-24
+## 12-15-24
 - Finished up genre analysis
 - began work on track analysis
+
+## 12-16-24
+- Wrapped up work on coding
