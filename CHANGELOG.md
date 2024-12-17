@@ -39,3 +39,6 @@
 
 ## 12-16-24
 - Wrapped up work on coding
+
+## 12-17-24
+- Cleanded up Repository and tested code

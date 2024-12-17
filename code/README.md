@@ -6,6 +6,7 @@ Contains all notebook files
 Skip 000
 1. 001-kworbDataCleaning
 2. 002-kaggleDataCleaning
-
-## Scripts
-Contains any additional scripts or work in progress files
+3. 003-horizontalMerge
+4. 004-artistAnalysis
+5. 005-genereAnalysis
+6. 006-trackAnalysis
